@@ -10,5 +10,6 @@ Aim Game is an arcade game consisting of 2 distinct game modes (FPS Shooter + En
 * Android
 
 ## How to play
+* Download AimGame.apk
 * Install AimGame.apk using package installer on android
 * Play the game
