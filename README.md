@@ -6,7 +6,7 @@ Aim Game is an arcade game consisting of 2 distinct game modes (FPS Shooter + En
 
 *This game is built using Unity3d*
 
-*Was published briefly on Google Play under the name KodeNut Games* 
+*Was published briefly on Google Play under the name KodeNut Games in 2021* 
 
 ## Platforms Supported
 * Android
